@@ -2,7 +2,7 @@
 
 The checklist was shared in October 2026 with online communities of people with disabilities and chronic illnesses, along with an anonymous feedback form. This page lists the themes in my own words. It has no names, quotes or group names. The people who commented are sources of information, not partners in the project.
 
-Last updated: 2026-10-30. Form responses so far: 3.
+Last updated: 2026-10-30. Form responses so far: 4.
 
 ## Themes raised
 
@@ -21,6 +21,7 @@ Last updated: 2026-10-30. Form responses so far: 3.
 | **Restrooms** | Restroom access along the route and at the site | Planned for v3 |
 | **Stairs, hills, bumpy surfaces, handholds** | Count stairs and slopes; note rough pavement and a bumpy ride; grab rails and handholds. | Planned for v3 |
 | **Senses** | Noise, bright light, crowds | Already in v1 ("Senses"); to be expanded in v3 (a quiet room) |
+| **When the trip itself is the barrier** | For some people with energy-limiting conditions, fatigue makes them miss appointments however good the route is. A better route would make no difference for them. | Planned for v3, as a question for study teams: can some visits be done remotely, at home, or as hybrid visits (in person only for procedures)? This is a limit of a route-only approach. |
 | **Barriers that make no sense** | A ramp blocked by a railing; recent construction that is still inaccessible | Supports checking new construction, not just old routes |
 
 ## Accessibility of the form itself
