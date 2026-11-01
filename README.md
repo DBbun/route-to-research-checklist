@@ -8,7 +8,7 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 
 | Folder | Contents |
 |---|---|
-| [`checklist/`](checklist/) | The one-page route checklist, every version, with alt text |
+| [`checklist/`](checklist/) | The checklist, every version, with alt text. Latest: v3, two pages (the route; the visit) |
 | [`method/`](method/) | How to do a narrated route walk and turn it into a report |
 | [`reports/`](reports/) | Pilot walk reports from Boston-area hospitals (PDF) |
 | [`community-input/`](community-input/) | What people with disabilities said about the checklist, and what changed as a result (themes only, no names) |
@@ -16,7 +16,7 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 
 ## How to use it
 
-1. Print or open the [latest checklist](checklist/).
+1. Print or open the latest checklist: [page 1, the route](checklist/Route_Checklist_v3_2026-11-01_page1.png) and [page 2, the visit](checklist/Route_Checklist_v3_2026-11-01_page2.png).
 2. Walk, or ask someone to walk, the route from the nearest transit stop to your study's front desk, following the [method](method/METHOD.md).
 3. Share the list of barriers with the site, the city and the transit agency. Check back later to see whether they were fixed.
 
