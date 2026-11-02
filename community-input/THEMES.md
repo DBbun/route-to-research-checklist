@@ -2,7 +2,7 @@
 
 The checklist was shared in October 2026 with online communities of people with disabilities and chronic illnesses, along with an anonymous feedback form. This page lists the themes in my own words. It has no names, quotes or group names. The people who commented are sources of information, not partners in the project.
 
-Last updated: 2026-11-01. Form responses so far: 4. Version 3 of the checklist (two pages: the route, and the visit) answers most of the themes below.
+Last updated: 2026-11-02. Form responses so far: 7 (6 of the 7 had missed, cancelled or turned down an appointment or a study because getting there was too hard). Version 3 of the checklist (two pages: the route, and the visit) answers most of the themes below.
 
 ## Themes raised
 
@@ -23,11 +23,13 @@ Last updated: 2026-11-01. Form responses so far: 4. Version 3 of the checklist (
 | **Senses** | Noise, bright light, crowds | In v1 ("Senses"); v3 adds crowds and a quiet place to wait |
 | **When the trip itself is the barrier** | For some people with energy-limiting conditions, fatigue makes them miss appointments however good the route is. A better route would make no difference for them. | Added to v3 (page 2, Fewer trips), as a question for study teams: can some visits be done remotely, at home, or as hybrid visits (in person only for procedures)? This is a limit of a route-only approach. |
 | **Barriers that make no sense** | A ramp blocked by a railing; recent construction that is still inaccessible | Supports checking new construction, not just old routes; v3 asks for step-free, signed construction detours |
-
 | **Invisible disability** | People with real limits are told they don't look disabled, or don't qualify for a parking placard. | Added to v3: drop-off for anyone who asks, placard or not; the same help whether or not a disability is visible |
 | **Signs at decision points** | The step-free option exists, but nothing points to it where people choose their way. | Added to v3 (page 1, Signs) |
 | **Some must drive, others can't** | Driving is the only way for some disabled people; others can't drive at all. | v3 subtitle: the trip by transit, car or ride |
 | **Communication access** | Booking and check-in by phone only; sign language interpreters; people who speak with a device, a letter board or pictures. | Added to v3 (page 2, Communication) |
+| **Time of day** | At rush hour, a 15-minute ride can take 45 minutes. | Under review for the next version |
+| **Booking rides ahead** | Medical ride programs can need several days' notice. | Under review for the next version |
+| **Switching to remote on the day** | When help, the weather or a late ride falls through, a visit could still happen remotely instead of being lost. | Under review for the next version |
 
 ## Accessibility of the form itself
 
