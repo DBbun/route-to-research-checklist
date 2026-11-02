@@ -27,7 +27,7 @@ Last updated: 2026-11-01. Form responses so far: 4. Version 3 of the checklist (
 | **Invisible disability** | People with real limits are told they don't look disabled, or don't qualify for a parking placard. | Added to v3: drop-off for anyone who asks, placard or not; the same help whether or not a disability is visible |
 | **Signs at decision points** | The step-free option exists, but nothing points to it where people choose their way. | Added to v3 (page 1, Signs) |
 | **Some must drive, others can't** | Driving is the only way for some disabled people; others can't drive at all. | v3 subtitle: the trip by transit, car or ride |
-| **Communication access** | Booking and check-in by phone only; interpreters; people who use AAC devices. | Added to v3 (page 2, Communication) |
+| **Communication access** | Booking and check-in by phone only; sign language interpreters; people who speak with a device, a letter board or pictures. | Added to v3 (page 2, Communication) |
 
 ## Accessibility of the form itself
 

@@ -1,5 +1,8 @@
 # Checklist versions
 
+## v3, wording update (2026-11-02)
+Plain language: no unexplained abbreviations or jargon. "ASL" became "sign language interpreter"; "AAC" became "people who speak with a device, a letter board or pictures"; "warning pad" became "bumpy warning strip"; "accessible signal" became "a signal that beeps or talks"; paratransit and remote visits explained. No items added or removed.
+
 ## v3 (2026-11-01)
 Two pages instead of one. Most changes came from comments and form responses from people with disabilities and chronic illnesses (see [community-input/THEMES.md](community-input/THEMES.md)).
 - **Page 1, the route** (checked on foot): new **Signs** item (a sign to the step-free route where people choose their way; simple words and symbols). Elevators clean, lit and easy to see, and the number of elevators on the whole trip. Seats wherever people wait; restrooms along the way. Stairs, hills, bumpy stretches and railings. Time the walk signal. Drop-off for anyone who asks, placard or not. Crowds and a quiet place to wait. Construction detours step-free and signed; snow and ice. Subtitle now covers the trip by transit, car or ride.
