@@ -10,7 +10,7 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 |---|---|
 | [`checklist/`](checklist/) | The checklist, every version, with alt text. Latest: v3, two pages (the route; the visit) |
 | [`method/`](method/) | How to do a narrated route walk and turn it into a report |
-| [`reports/`](reports/) | Pilot walk reports from Boston-area hospitals (PDF) |
+| [`reports/`](reports/) | Pilot walk reports from Boston, Cambridge and Somerville, most of them on routes to hospitals (PDF) |
 | [`community-input/`](community-input/) | What people with disabilities said about the checklist, and what changed as a result (themes only, no names) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Checklist versions and what changed |
 
@@ -22,13 +22,19 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 
 Research teams can also use the checklist to write arrival directions for participants and to plan help: rides, a companion, rest and waiting space.
 
+## Share your experience
+
+What makes getting to medical appointments or research visits hard or easy for you? A short anonymous survey (about 3 minutes), open to everyone, with or without a disability: https://forms.gle/TiVKdjhRr3DYo5XY9
+
+Answers are summarized only as themes and totals; nothing that could identify anyone is published.
+
 ## Status
 
 These are pilot materials, October 2026. The items in the reports are possible barriers seen by one walker. They are not legal compliance findings. Community input is collected through public posts and an anonymous form and is summarized here only as themes. More walks, re-checks and checklist versions are planned through January 2027.
 
 ## AI disclosure
 
-The reports and checklist were prepared with AI assistance from Claude (Anthropic), model `claude-opus-5-5`. Claude helped review blurred video frames and transcripts, draft the item lists and reports, and draft this repository. Narration was transcribed locally with faster-whisper (model `medium.en`). Faces were blurred locally with OpenCV before any image was reviewed. The author reviewed and corrected all findings.
+The reports and checklist were prepared with AI assistance from Claude (Anthropic), model `claude-opus-5-5`. Claude helped review blurred video frames and transcripts, draft the item lists and reports, and draft this repository. Narration was transcribed locally with faster-whisper (model `medium.en`) or openai-whisper (model `small`, report 7). For reports 1–6, faces were blurred locally with OpenCV before any image was reviewed; for report 7, frames were reviewed unblurred and the published figures were chosen so that no faces or readable license plates appear. The author reviewed and corrected all findings.
 
 ## License
 
