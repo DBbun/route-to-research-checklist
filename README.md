@@ -17,7 +17,7 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 
 ## How to use it
 
-1. Print or open the latest checklist: [page 1, the route](checklist/Route_Checklist_v3_2026-11-01_page1.png) and [page 2, the visit](checklist/Route_Checklist_v3_2026-11-01_page2.png). For screen readers, use the [accessible PDF](checklist/Route_Checklist_v3_2026-11-01_accessible.pdf) (both pages, tagged).
+1. Print or open the latest checklist: [page 1, the route](checklist/Route_Checklist_v3_2026-11-02_page1.png) and [page 2, the visit](checklist/Route_Checklist_v3_2026-11-02_page2.png). For screen readers, use the [accessible PDF](checklist/Route_Checklist_v3_2026-11-02_accessible.pdf) (both pages, tagged).
 2. Walk, or ask someone to walk, the route from the nearest transit stop to your study's front desk, following the [method](method/METHOD.md).
 3. Share the list of barriers with the site, the city and the transit agency. Check back later to see whether they were fixed.
 
