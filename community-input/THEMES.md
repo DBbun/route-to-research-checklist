@@ -35,6 +35,15 @@ Last updated: 2026-11-03. Form responses so far: 12 (9 of the 12 had missed, can
 | **Knowing what to expect** | A short guide to what will happen on the way and at the visit. | Under review for the next version |
 | **Service dogs** | Enough space in waiting areas so a service dog isn't tripped over. | Under review for the next version |
 | **Transit apps** | Transit timetables that send people to a separate website are hard to navigate. | Noted |
+| **Unable, not unwilling** | People too sick to travel are not "less motivated" to take part in research: the limit is energy and capability. | Framing for the next version and the method guide |
+| **Bring the study to the person** | For someone who can't leave bed, only research done at home is possible: a small, low-energy device a caregiver can use, or short reports by a family member. Caregivers who have done this for years can be exhausted, so it must take little effort. | Under review for the next version (page 2, Fewer trips) |
+| **An access plan every staff member follows** | A "no talking" sign or a written-questions-only plan helps only if every staff member who enters the room follows it. | Under review for the next version (page 2, Communication) |
+| **Another way to fill in forms** | People who can't write or look down can't complete paper forms; staff can read the questions aloud and type, or offer a tablet at eye level. | Under review for the next version (page 2, Communication) |
+| **Confirm in writing** | Say in writing what has been arranged (ride, help, access) before the visit, and send the list of what to bring or have ready ahead, not after. | Under review for the next version (page 2, Ask) |
+| **How to reach the team** | Tell people they can get in touch between visits if something comes up, and how. | Under review for the next version (page 2, Communication) |
+| **Masks** | A simple way to ask ahead for staff in contact to wear N95 masks; masks offered at check-in. | Under review for the next version |
+
+The last seven themes came from an in-depth conversation and emails with a parent and caregiver of an adult with very severe ME/CFS (November 2026).
 
 ## Accessibility of the form itself
 
