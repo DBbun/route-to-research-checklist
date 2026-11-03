@@ -60,3 +60,13 @@ List every item in a table:
 ## 6. Ask people with disabilities
 
 One walker sees only part of the picture. Ask people with lived experience what is missing, and update the checklist. See [`../community-input/`](../community-input/) for what has been raised so far.
+
+## 7. Test that someone else can use it
+
+The checklist is only useful if people outside this project can use it on their own. Ask someone who wasn't involved, such as a study coordinator, a research office or an advocate, to apply it to one route or one study visit, using only this guide and the checklist.
+
+- Give them only the public files. Don't explain anything in advance.
+- Record how long it took, every question they had to ask, and anything they skipped or changed.
+- Update the guide wherever they got stuck, and note the change in the change log.
+
+Report the result with the date and the person's role, not their name.
