@@ -2,7 +2,7 @@
 
 The checklist was shared in October 2026 with online communities of people with disabilities and chronic illnesses, along with an anonymous feedback form. This page lists the themes in my own words. It has no names, quotes or group names. The people who commented are sources of information, not partners in the project.
 
-Last updated: 2026-11-02. Form responses so far: 7 (6 of the 7 had missed, cancelled or turned down an appointment or a study because getting there was too hard). Version 3 of the checklist (two pages: the route, and the visit) answers most of the themes below.
+Last updated: 2026-11-03. Form responses so far: 12 (9 of the 12 had missed, cancelled or turned down an appointment or a study because getting there was too hard; 7 of them a research study). Version 3 of the checklist (two pages: the route, and the visit) answers most of the themes below.
 
 ## Themes raised
 
@@ -30,6 +30,11 @@ Last updated: 2026-11-02. Form responses so far: 7 (6 of the 7 had missed, cance
 | **Time of day** | At rush hour, a 15-minute ride can take 45 minutes. | Under review for the next version |
 | **Booking rides ahead** | Medical ride programs can need several days' notice. | Under review for the next version |
 | **Switching to remote on the day** | When help, the weather or a late ride falls through, a visit could still happen remotely instead of being lost. | Under review for the next version |
+| **Directions to the exact door** | Step-by-step directions with photos, and a way to pin the exact entrance; directions by landmarks don't work for everyone. | Under review for the next version |
+| **Someone to meet you** | Being met at the entrance and shown the way to the room, at least the first time. | Under review for the next version |
+| **Knowing what to expect** | A short guide to what will happen on the way and at the visit. | Under review for the next version |
+| **Service dogs** | Enough space in waiting areas so a service dog isn't tripped over. | Under review for the next version |
+| **Transit apps** | Transit timetables that send people to a separate website are hard to navigate. | Noted |
 
 ## Accessibility of the form itself
 
