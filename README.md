@@ -35,7 +35,7 @@ These are pilot materials, October 2026. The items in the reports are possible b
 
 ## AI disclosure
 
-The reports and checklist were prepared with AI assistance from Claude (Anthropic), model `claude-opus-5-5`. Claude helped review blurred video frames and transcripts, draft the item lists and reports, and draft this repository. Narration was transcribed locally with faster-whisper (model `medium.en`) or openai-whisper (model `small`, report 7). For reports 1–6, faces were blurred locally with OpenCV before any image was reviewed; for report 7, frames were reviewed unblurred and the published figures were chosen so that no faces or readable license plates appear. The author reviewed and corrected all findings.
+The reports and checklist were prepared with AI assistance from Claude (Anthropic), model `claude-opus-5-5`. Claude helped review blurred video frames and transcripts, draft the item lists and reports, and draft this repository. Narration was transcribed locally with faster-whisper (model `medium.en`) or openai-whisper (model `small`, reports 7 and 8). For reports 1–6, faces were blurred locally with OpenCV before any image was reviewed; for reports 7 and 8, frames were reviewed unblurred and the published figures were chosen so that no faces or readable license plates appear. Report 8 also uses route numbers (distance, steps, climb, time) from the free version of the Strava walking app; no body measures. The author reviewed and corrected all findings.
 
 ## License
 
