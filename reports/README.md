@@ -18,7 +18,8 @@ Each re-check walk goes back over earlier routes to see what was fixed after the
 
 | Report | Routes re-checked | Walked |
 |---|---|---|
-| [Re-check 1](Davis_NorthCambridge_Recheck_Report_2026-11-16.pdf) | North Cambridge and Davis Square (follow-up to pilot reports 1 and 3), plus accessible parking around Davis Square | 2026-11-16 |
+| [Re-check 1](Davis_NorthCambridge_Recheck_Report_2026-11-16.pdf) | North Cambridge and Davis Square (follow-up to pilot reports 1 and 3), plus accessible parking around Davis Square and a 2016 comparison | 2026-11-16 |
+| [Re-check 2](CambridgeSt_Spaulding_CHA_Recheck_Report_2026-11-17.pdf) | Harvard Square to Spaulding Rehabilitation Hospital and Cambridge Hospital (follow-up to pilot reports 4 and 5), outdoors only, plus the Red Line train and Harvard station | 2026-11-17 |
 
 Pilot reports 1 and 3 are public versions, lightly edited for privacy.
 
