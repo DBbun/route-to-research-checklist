@@ -12,6 +12,7 @@ It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It 
 | [`survey/`](survey/) | Trip Experience Survey: the anonymous survey questions as a template study teams can copy (PDF and Markdown) |
 | [`method/`](method/) | How to do a narrated route walk and turn it into a report |
 | [`reports/`](reports/) | Pilot walk reports from Boston, Cambridge and Somerville, most of them on routes to hospitals (PDF) |
+| [`case-notes/`](case-notes/) | Short first-person notes on single barriers, for example [a crack on a shared path](case-notes/esplanade-crack-2026.md) |
 | [`community-input/`](community-input/) | What people with disabilities said about the checklist, and what changed as a result (themes only, no names) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Checklist versions and what changed |
 
