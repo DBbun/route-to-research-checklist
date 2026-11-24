@@ -10,7 +10,7 @@ This is real survey data in summary form. It is **not synthetic**.
 
 Please cite:
 
-> Kartoun U. *Trip Experience Survey 2026: summary counts* (version 1.0). DBbun LLC; 2026. https://github.com/DBbun/route-to-research-checklist. DOI: [to be added on release]
+> Kartoun U. *Trip Experience Survey 2026: summary counts* (version 1.0). DBbun LLC; 2026. https://github.com/DBbun/route-to-research-checklist. DOI: https://doi.org/10.5281/zenodo.24514955 (all versions; version 1.0: https://doi.org/10.5281/zenodo.24514956)
 
 License: [CC BY 4.0](../LICENSE). You may reuse, share and adapt the data, including for commercial use, as long as you credit the source as above and say if you changed anything. A machine-readable citation is in [`CITATION.cff`](../CITATION.cff).
 

@@ -4,6 +4,9 @@ Can people with disabilities actually get to the place where a clinical study ha
 
 It is an independent project by Uri Kartoun, PhD (DBbun LLC, Cambridge, MA). It is being entered in the NIH **Advancing the Inclusion of People with Disabilities in Clinical Research Challenge**. It is not funded by NIH or any other federal source.
 
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.24514955 (this DOI always points to the latest version).
+
 ## What's here
 
 | Folder | Contents |
