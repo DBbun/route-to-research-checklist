@@ -21,6 +21,7 @@ Each re-check walk goes back over earlier routes to see what was fixed after the
 | [Re-check 1](Davis_NorthCambridge_Recheck_Report_2026-11-16.pdf) | North Cambridge and Davis Square (follow-up to pilot reports 1 and 3), plus accessible parking around Davis Square and a 2016 comparison | 2026-11-16 |
 | [Re-check 2](CambridgeSt_Spaulding_CHA_Recheck_Report_2026-11-17.pdf) | Harvard Square to Spaulding Rehabilitation Hospital and Cambridge Hospital (follow-up to pilot reports 4 and 5), outdoors only, plus the Red Line train and Harvard station | 2026-11-17 |
 | [Re-check 3](MGH_MassEyeEar_Recheck_Report_2026-11-23.pdf) | Charles/MGH station to Massachusetts General Hospital buildings (follow-up to pilot report 2), outdoors only, plus Mass Eye and Ear, the Longfellow Bridge, and noise measured on the Red Line | 2026-11-23 |
+| [Re-check 4](Brigham_BIDMC_Longwood_Recheck_Report_2026-11-24.pdf) | Brigham Circle to Brigham and Women's Hospital, Beth Israel Deaconess and the Longwood Medical Area (follow-up to pilot report 6), outdoors only, plus the Green Line, a cold-weather noise and battery record, and step-free versus stepped streetcars | 2026-11-24 |
 
 Pilot reports 1 and 3 are public versions, lightly edited for privacy.
 

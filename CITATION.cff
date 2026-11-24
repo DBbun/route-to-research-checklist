@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this checklist, the survey questions or the survey summary counts, please cite them as below."
+title: "Route to Research: an accessibility checklist, walk reports and Trip Experience Survey summary counts"
+type: dataset
+authors:
+  - family-names: Kartoun
+    given-names: Uri
+    orcid: "https://orcid.org/0000-0003-0988-8037"
+    affiliation: "DBbun LLC"
+    email: uri.kartoun@dbbun.com
+  - name: "DBbun LLC"
+    city: Cambridge
+    region: MA
+    country: US
+    website: "https://dbbun.com"
+repository-code: "https://github.com/DBbun/route-to-research-checklist"
+url: "https://github.com/DBbun/route-to-research-checklist"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-11-24"
+# doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - disability
+  - accessibility
+  - clinical research
+  - research participation
+  - transportation barriers
+  - survey
+abstract: >-
+  A route accessibility checklist for clinical research sites, pilot walk reports from
+  Boston, Cambridge and Somerville (Massachusetts), and summary counts from an anonymous
+  survey on getting to medical appointments and research visits. Survey data are real
+  responses published only as one-way summary counts; they are not synthetic.
