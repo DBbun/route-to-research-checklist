@@ -1,117 +1,117 @@
 question_id,section,question,answer,count,denominator,note
-Q1,About you,Which of these describe you?,I have a disability,24,33,
-Q1,About you,Which of these describe you?,I am a family member or caregiver of someone with a disability,9,33,
-Q1,About you,Which of these describe you?,Parent or caregiver of a young child,5,33,
-Q1,About you,Which of these describe you?,I don't have a disability,<5,33,
-Q1,About you,Which of these describe you?,I work in healthcare or research,<5,33,
-Q1,About you,Which of these describe you?,Other,<5,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Someone who helps me,11,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Cane or crutches,9,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Manual wheelchair,8,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",None of these,7,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Power wheelchair or scooter,7,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Walker or rollator,7,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Hearing aids or other hearing support,<5,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Stroller,<5,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",Service animal,<5,33,
-Q2,About you,"When you travel to appointments, do you use or bring any of these?",White cane or guide dog,<5,33,
-Q3,About you,"If you have a disability, which types?",Mobility,19,28,
-Q3,About you,"If you have a disability, which types?","Chronic illness, fatigue or pain",15,28,
-Q3,About you,"If you have a disability, which types?",Mental health,8,28,
-Q3,About you,"If you have a disability, which types?",Intellectual or developmental,5,28,
-Q3,About you,"If you have a disability, which types?",Other,5,28,
-Q3,About you,"If you have a disability, which types?",Deaf or hard of hearing,<5,28,
-Q3,About you,"If you have a disability, which types?",Speech or communication,<5,28,
-Q3,About you,"If you have a disability, which types?",Blind or low vision,<5,28,
-Q3,About you,"If you have a disability, which types?",Temporary injury or condition,<5,28,
-Q4,About you,Do any of these also make getting to appointments harder?,No car,13,32,
-Q4,About you,Do any of these also make getting to appointments harder?,I can't drive,10,32,
-Q4,About you,Do any of these also make getting to appointments harder?,Low income or cost of travel,10,32,
-Q4,About you,Do any of these also make getting to appointments harder?,None of these,8,32,
-Q4,About you,Do any of these also make getting to appointments harder?,Caring for children or others,6,32,
-Q4,About you,Do any of these also make getting to appointments harder?,Older age,6,32,
-Q4,About you,Do any of these also make getting to appointments harder?,Living outside a city or far from transit,<5,32,
-Q4,About you,Do any of these also make getting to appointments harder?,English is not my first language,<5,32,
-Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, a medical appointment",12,33,
-Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, both",12,33,
-Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?",No,6,33,
-Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, a research study",2,33,
-Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?",Not sure,1,33,
-Q8,Experience,"If yes, what made it too hard?","Transit (no elevator, elevator out of service, no accessible stop)",15,27,
-Q8,Experience,"If yes, what made it too hard?","Weather (snow, ice, heat)",15,27,
-Q8,Experience,"If yes, what made it too hard?",Distance or nowhere to rest,14,27,
-Q8,Experience,"If yes, what made it too hard?",Fatigue or pain: the trip itself was too much,11,27,
-Q8,Experience,"If yes, what made it too hard?","Ride timing (paratransit, van or ride pickup)",10,27,
-Q8,Experience,"If yes, what made it too hard?",Cost of travel or parking,9,27,
-Q8,Experience,"If yes, what made it too hard?",No one to go with me,6,27,
-Q8,Experience,"If yes, what made it too hard?","Sidewalks, surfaces or curb ramps",5,27,
-Q8,Experience,"If yes, what made it too hard?",Drop-off or parking,4,27,
-Q8,Experience,"If yes, what made it too hard?",Other,4,27,
-Q8,Experience,"If yes, what made it too hard?",The building entrance or doors,2,27,
-Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Much more likely,15,31,
-Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Somewhat more likely,11,31,
-Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",No difference,4,31,
-Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Not sure,1,31,
-Q12,About you,How did you hear about this form?,A Facebook group,21,29,Question added 2026-11-01; not asked of the first 4 respondents.
-Q12,About you,How did you hear about this form?,A neighborhood email list,<5,29,Question added 2026-11-01; not asked of the first 4 respondents.
-Q12,About you,How did you hear about this form?,Other,<5,29,Question added 2026-11-01; not asked of the first 4 respondents.
-Q12,About you,How did you hear about this form?,The City or a local organization,<5,29,Question added 2026-11-01; not asked of the first 4 respondents.
-Q11,About you,Where do you live? (grouped),Massachusetts,23,33,Typed answers grouped by hand; other places are not listed separately.
-Q11,About you,Where do you live? (grouped),Not answered or not asked,5,33,Typed answers grouped by hand; other places are not listed separately.
-Q11,About you,Where do you live? (grouped),Outside Massachusetts (other US states or countries),5,33,Typed answers grouped by hand; other places are not listed separately.
-Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Essential,17,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Helpful,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Not needed,4,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Essential,10,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Helpful,14,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Not needed,4,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Not sure,0,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Essential,18,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Helpful,6,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Not needed,3,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Not sure,2,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Essential,16,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Helpful,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Not needed,4,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Essential,12,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Helpful,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Not needed,7,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Not sure,1,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Essential,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Helpful,16,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Not needed,3,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Not sure,1,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Essential,13,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Helpful,12,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Not needed,4,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Essential,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Helpful,11,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Not needed,10,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Essential,11,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Helpful,13,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Not needed,5,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Essential,12,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Helpful,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Not needed,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Essential,15,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Helpful,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Not needed,5,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Essential,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Helpful,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Not needed,10,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Not sure,2,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Essential,10,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Helpful,9,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Not needed,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Not sure,2,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Essential,10,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Helpful,10,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Not needed,8,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
-Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Not sure,0,28,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q1,About you,Which of these describe you?,I have a disability,25,34,
+Q1,About you,Which of these describe you?,I am a family member or caregiver of someone with a disability,9,34,
+Q1,About you,Which of these describe you?,Parent or caregiver of a young child,5,34,
+Q1,About you,Which of these describe you?,I don't have a disability,<5,34,
+Q1,About you,Which of these describe you?,I work in healthcare or research,<5,34,
+Q1,About you,Which of these describe you?,Other,<5,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Someone who helps me,11,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Cane or crutches,9,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Manual wheelchair,8,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",None of these,7,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Power wheelchair or scooter,7,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Walker or rollator,7,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Hearing aids or other hearing support,<5,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Service animal,<5,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",Stroller,<5,34,
+Q2,About you,"When you travel to appointments, do you use or bring any of these?",White cane or guide dog,<5,34,
+Q3,About you,"If you have a disability, which types?",Mobility,19,29,
+Q3,About you,"If you have a disability, which types?","Chronic illness, fatigue or pain",15,29,
+Q3,About you,"If you have a disability, which types?",Mental health,9,29,
+Q3,About you,"If you have a disability, which types?",Intellectual or developmental,5,29,
+Q3,About you,"If you have a disability, which types?",Other,5,29,
+Q3,About you,"If you have a disability, which types?",Deaf or hard of hearing,<5,29,
+Q3,About you,"If you have a disability, which types?",Speech or communication,<5,29,
+Q3,About you,"If you have a disability, which types?",Blind or low vision,<5,29,
+Q3,About you,"If you have a disability, which types?",Temporary injury or condition,<5,29,
+Q4,About you,Do any of these also make getting to appointments harder?,No car,14,33,
+Q4,About you,Do any of these also make getting to appointments harder?,I can't drive,10,33,
+Q4,About you,Do any of these also make getting to appointments harder?,Low income or cost of travel,10,33,
+Q4,About you,Do any of these also make getting to appointments harder?,None of these,8,33,
+Q4,About you,Do any of these also make getting to appointments harder?,Caring for children or others,6,33,
+Q4,About you,Do any of these also make getting to appointments harder?,Older age,6,33,
+Q4,About you,Do any of these also make getting to appointments harder?,Living outside a city or far from transit,<5,33,
+Q4,About you,Do any of these also make getting to appointments harder?,English is not my first language,<5,33,
+Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, a medical appointment",13,34,
+Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, both",12,34,
+Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?",No,6,34,
+Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?","Yes, a research study",2,34,
+Q7,Experience,"Ever missed, cancelled or turned down a medical appointment or research study because getting there was too hard?",Not sure,1,34,
+Q8,Experience,"If yes, what made it too hard?","Weather (snow, ice, heat)",16,28,
+Q8,Experience,"If yes, what made it too hard?","Transit (no elevator, elevator out of service, no accessible stop)",15,28,
+Q8,Experience,"If yes, what made it too hard?",Distance or nowhere to rest,14,28,
+Q8,Experience,"If yes, what made it too hard?",Fatigue or pain: the trip itself was too much,11,28,
+Q8,Experience,"If yes, what made it too hard?","Ride timing (paratransit, van or ride pickup)",11,28,
+Q8,Experience,"If yes, what made it too hard?",Cost of travel or parking,9,28,
+Q8,Experience,"If yes, what made it too hard?",No one to go with me,6,28,
+Q8,Experience,"If yes, what made it too hard?","Sidewalks, surfaces or curb ramps",5,28,
+Q8,Experience,"If yes, what made it too hard?",Drop-off or parking,4,28,
+Q8,Experience,"If yes, what made it too hard?",Other,4,28,
+Q8,Experience,"If yes, what made it too hard?",The building entrance or doors,2,28,
+Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Much more likely,15,32,
+Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Somewhat more likely,11,32,
+Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",No difference,4,32,
+Q10,Experience,"If a research site used a route checklist like this and fixed the problems it found, would you be more likely to take part?",Not sure,2,32,
+Q12,About you,How did you hear about this form?,A Facebook group,22,30,Question added 2026-11-01; not asked of the first 4 respondents.
+Q12,About you,How did you hear about this form?,A neighborhood email list,<5,30,Question added 2026-11-01; not asked of the first 4 respondents.
+Q12,About you,How did you hear about this form?,Other,<5,30,Question added 2026-11-01; not asked of the first 4 respondents.
+Q12,About you,How did you hear about this form?,The City or a local organization,<5,30,Question added 2026-11-01; not asked of the first 4 respondents.
+Q11,About you,Where do you live? (grouped),Massachusetts,24,34,Typed answers grouped by hand; other places are not listed separately.
+Q11,About you,Where do you live? (grouped),Not answered or not asked,5,34,Typed answers grouped by hand; other places are not listed separately.
+Q11,About you,Where do you live? (grouped),Outside Massachusetts (other US states or countries),5,34,Typed answers grouped by hand; other places are not listed separately.
+Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Essential,17,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Helpful,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Not needed,4,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Transit stop: elevator at this entrance, and a sign to the accessible entrance",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Essential,10,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Helpful,15,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Not needed,4,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Distance and rest: seats along the way, shade or shelter",Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Essential,18,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Helpful,6,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Not needed,3,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Surface: brick, cracks, gaps, tree roots, ice, puddles",Not sure,3,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Essential,16,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Helpful,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Not needed,4,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Crossings: curb ramps, warning pads, accessible signals, enough time to cross",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Essential,12,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Helpful,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Not needed,7,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Drop-off: loading zone for wheelchair vans, accessible parking near the door",Not sure,2,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Essential,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Helpful,16,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Not needed,4,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Entrance: automatic door, reachable button, signs to the accessible door",Not sure,1,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Essential,13,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Helpful,12,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Not needed,5,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Inside: distance to the desk, desk height, elevator, restroom, seating",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Essential,8,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Helpful,12,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Not needed,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Senses: lighting, glare, noise, smoke, smells",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Essential,11,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Helpful,14,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Not needed,5,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? The day itself: construction detours, weather, ride pickup times",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Essential,12,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Helpful,8,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Not needed,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Cost: fares, parking or ride cost, and whether the study pays it back",Not sure,1,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Essential,15,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Helpful,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Not needed,5,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Rest and restrooms: a place to sit or lie down, restrooms along the way and on site",Not sure,0,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Essential,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Helpful,9,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Not needed,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Ride booked and paid by the study (taxi, ride-hail or van)",Not sure,2,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Essential,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Helpful,10,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Not needed,8,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,"How important is this item? Companion: someone can come with you, and the study covers their cost",Not sure,2,30,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Essential,11,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Helpful,10,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Not needed,8,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."
+Q5,Checklist ratings,How important is this item? Remote or home visits when an in-person visit isn't needed,Not sure,0,29,"Asked from 2026-11-01 (14 items); the first 4 respondents rated an earlier 9-item list, not included."

@@ -1,6 +1,6 @@
 # Trip Experience Survey 2026: summary counts
 
-**Version 1.1 (November 26, 2026): built from the export of November 26, 2026 (33 respondents; responses dated October 27 to November 19, 2026). Version 1.0 (November 24, 2026) had 31 respondents. Earlier versions stay available under the same DOI.**
+**Version 1.2 (November 26, 2026): built from the second export of November 26, 2026 (34 respondents; responses dated October 27 to November 26, 2026). Version 1.0 (November 24) had 31 respondents and version 1.1 (November 26) had 33. Earlier versions stay available under the same DOI.**
 
 Summary counts from an anonymous online survey about getting to medical appointments and research visits, with a focus on people with disabilities. The survey was run as part of the Route to Research pilot (Boston, Cambridge and Somerville, Massachusetts, October–December 2026).
 
@@ -10,7 +10,7 @@ This is real survey data in summary form. It is **not synthetic**.
 
 Please cite:
 
-> Kartoun U. *Trip Experience Survey 2026: summary counts* (version 1.1). DBbun LLC; 2026. https://github.com/DBbun/route-to-research-checklist. DOI: https://doi.org/10.5281/zenodo.24514955 (all versions; version 1.0: https://doi.org/10.5281/zenodo.24514956)
+> Kartoun U. *Trip Experience Survey 2026: summary counts* (version 1.2). DBbun LLC; 2026. https://github.com/DBbun/route-to-research-checklist. DOI: https://doi.org/10.5281/zenodo.24514955 (all versions; version 1.0: https://doi.org/10.5281/zenodo.24514956)
 
 License: [CC BY 4.0](../LICENSE). You may reuse, share and adapt the data, including for commercial use, as long as you credit the source as above and say if you changed anything. A machine-readable citation is in [`CITATION.cff`](../CITATION.cff).
 
@@ -36,7 +36,7 @@ Respondents were told: "Your answers are anonymous and will only be reported in 
 
 ## Who answered (and who didn't)
 
-- 33 people, October 27 to November 19, 2026. Most found the survey through disability-related Facebook groups and neighborhood email lists; most live in Massachusetts.
+- 34 people, October 27 to November 26, 2026. Most found the survey through disability-related Facebook groups and neighborhood email lists; most live in Massachusetts.
 - 18 of 23 described themselves as having a disability. Others were caregivers, family members, or people working in healthcare or research.
 - **This is a small, self-selected group, not a random sample.** The counts show what this group reported. They are not estimates for all people with disabilities. Use them to generate questions and design larger studies, not as a measure of how common something is.
 - People who are too sick or tired to fill in an online form, people without internet access, and people who need another language or format are likely under-represented. One screen-reader user reported that the form showed a blank screen inside the Facebook app.
