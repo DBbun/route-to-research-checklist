@@ -18,6 +18,8 @@ Archived on Zenodo: https://doi.org/10.5281/zenodo.24514955 (this DOI always poi
 | [`reports/`](reports/) | Pilot walk reports from Boston, Cambridge and Somerville, most of them on routes to hospitals (PDF) |
 | [`case-notes/`](case-notes/) | Short first-person notes on single barriers, for example [a crack on a shared path](case-notes/esplanade-crack-2026.md) |
 | [`community-input/`](community-input/) | What people with disabilities said about the checklist, and what changed as a result (themes only, no names) |
+| [`energy-aware-visits/`](energy-aware-visits/) | Tools for study visits when energy is the main limit: a visit protocol, a one-page access plan, the energy cost of routes to three Boston hospitals, and an example arrival guide (drafts for comment; a separate NIH challenge entry) |
+| [`participant-burden-screen/`](participant-burden-screen/) | Code and results: what registered ClinicalTrials.gov studies ask of participants (steps from home, exercise tests, rest breaks), with hand-checked samples |
 | [`CHANGELOG.md`](CHANGELOG.md) | Checklist versions and what changed |
 
 ## How to use it

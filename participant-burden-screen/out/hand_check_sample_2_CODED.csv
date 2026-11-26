@@ -1,0 +1,31 @@
+nct_id,group,hand_mode,remote_flag,remote_true,exertion_flag,exertion_or_orthostatic_true,must_attend_flag,must_attend_true,excludes_bedbound_flag,functional_exclusion_true,note
+NCT06952127,Long COVID,H,1,1,1,1,0,0,1,1,telerehab arm vs face-to-face; cycle ergometer; 'able to walk independently'
+NCT06883500,ME/CFS,P,0,0,1,0,0,0,0,0,energy diary; GET mentioned only as background (flag false positive)
+NCT06814379,Long COVID,H,1,1,1,1,0,0,1,1,sessions at the university and/or home; 2-minute walk test; 'to be able to walk'
+NCT05379556,Long COVID,P,0,0,0,0,0,0,0,0,semen samples on site
+NCT07766512,Long COVID,H,0,1,0,0,0,0,0,0,"telephone interview, then in-person exam for some (flag missed 'telephone interview')"
+NCT04740736,ME/CFS,P,0,0,1,1,0,0,0,0,maximal exercise test on 2 days in a row (PEM study)
+NCT06932237,Long COVID,H,1,1,0,0,0,0,0,0,online cognitive tests plus blood draw and imaging
+NCT03674541,ME/CFS,P,0,0,1,1,0,0,0,0,invasive CPET
+NCT06879925,Long COVID,P,0,0,0,0,0,0,0,0,Qi-Gong
+NCT07074158,Long COVID,P,0,0,0,0,1,1,0,0,'ability to attend the study visit'
+NCT04301609,ME/CFS,P,0,0,0,0,0,0,0,0,supplement trial
+NCT05719493,ME/CFS,P,0,0,1,1,0,0,0,0,6-minute walk test
+NCT06208696,Long COVID,P,0,0,0,0,0,1,0,0,'ability to attend weekly sessions' (flag missed)
+NCT04741841,ME/CFS,P,0,0,0,0,0,0,0,0,probiotics
+NCT07417176,Long COVID,H,1,1,0,0,0,0,0,0,questionnaire by telephone and/or in person
+NCT04195815,ME/CFS,H,0,1,0,0,0,0,0,0,activity armband worn at home for 6 months; INCLUDES severe ME/CFS (flag missed)
+NCT05599906,Long COVID,H,1,1,1,1,0,0,0,0,inpatient rehab; telephone follow-up; 6MWT
+NCT04958889,Long COVID,R,1,1,0,0,0,0,0,0,'a series of remote study visits'
+NCT06511050,ME/CFS; Long COVID; Lyme,P,1,0,1,0,0,0,0,0,"telemedicine only in an EM-rash history criterion; 10-meter walk is gait speed, not an exertion test (2 false positives)"
+NCT05483829,Long COVID,R?,1,1,0,0,0,0,0,0,mobile app program
+NCT06255600,Long COVID,P,0,0,0,0,0,0,0,0,tDCS
+NCT07400848,ME/CFS,P,1,0,0,0,0,0,0,0,'online consent confirmation' only; blood and EndoPAT on site (flag false positive)
+NCT07697261,Long COVID,R,1,1,0,0,1,0,0,0,'Everything will be done online' (must_attend flag false positive: sessions are online)
+NCT05012826,Long COVID,P,0,0,0,0,0,0,0,0,osteopathy and physiotherapy visits
+NCT05036707,Lyme,H,0,1,0,0,0,0,0,0,"Lyme-related, healthy volunteers; tick placement on site, telephone follow-up (flag missed)"
+NCT05104749,Long COVID,R?,1,1,0,0,0,0,0,0,web forms and video calls
+NCT07714213,Long COVID,P,0,0,0,0,0,1,0,0,excludes people whose place of living does not allow attending visits (flag missed)
+NCT05631171,Long COVID,R?,1,1,0,0,0,0,0,0,app and wearable
+NCT05648123,Long COVID,R?,1,1,0,0,0,0,0,0,online group psychotherapy
+NCT07279272,Long COVID,P,0,0,0,0,0,0,0,0,plasma device

@@ -1,0 +1,19 @@
+group,study_type,n,remote_pct,exertion_test_pct,exercise_intervention_pct,excludes_bedbound_pct,flexibility_pct
+COPD,INTERVENTIONAL,1325,25.7,33.1,17.6,2.3,0.6
+COPD,OBSERVATIONAL,635,15.4,19.5,5.7,1.3,0.3
+COPD,All,1960,22.4,28.7,13.7,1.9,0.5
+Heart failure,INTERVENTIONAL,2057,26.5,30.2,7.8,3.2,0.3
+Heart failure,OBSERVATIONAL,1091,15.9,11.9,1.5,2.1,0.0
+Heart failure,All,3148,22.9,23.9,5.6,2.8,0.2
+Cancer-related fatigue,INTERVENTIONAL,2400,34.4,15.1,17.5,2.5,0.3
+Cancer-related fatigue,OBSERVATIONAL,393,23.7,10.7,1.8,0.5,0.0
+Cancer-related fatigue,All,2793,32.9,14.5,15.3,2.2,0.3
+MS fatigue,INTERVENTIONAL,474,44.3,37.8,31.6,7.0,1.5
+MS fatigue,OBSERVATIONAL,147,22.4,30.6,2.0,3.4,2.7
+MS fatigue,All,621,39.1,36.1,24.6,6.1,1.8
+Dialysis,INTERVENTIONAL,1160,16.2,7.7,7.7,0.9,0.2
+Dialysis,OBSERVATIONAL,429,8.6,3.0,0.2,1.2,0.5
+Dialysis,All,1589,14.2,6.4,5.7,0.9,0.3
+All,INTERVENTIONAL,7318,28.2,22.8,14.2,2.7,0.4
+All,OBSERVATIONAL,2632,15.8,13.1,2.3,1.6,0.3
+All,All,9950,25.0,20.3,11.1,2.4,0.4

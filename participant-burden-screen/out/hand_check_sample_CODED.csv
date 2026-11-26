@@ -1,0 +1,31 @@
+nct_id,group,hand_mode,remote_flag,remote_true,exertion_flag,exertion_or_orthostatic_true,must_attend_flag,must_attend_true,excludes_bedbound_flag,functional_exclusion_true,note
+NCT05441657,Long COVID,P,0,0,0,0,0,0,0,0,EIT lung imaging at one site
+NCT06542289,Lyme,H,1,1,0,0,0,0,0,0,Lyme is one of several causes of facial palsy; Month 2 remote visit
+NCT07355751,Long COVID,P,0,0,0,0,0,0,0,0,acupuncture
+NCT05545332,Long COVID,P,0,0,0,0,0,0,0,0,clinical registry in a care program
+NCT06974058,Long COVID,P,0,0,0,0,0,1,0,0,'willing and able to adhere to... follow-up visits'
+NCT05947617,Long COVID,P,0,0,1,1,0,1,0,0,6MWT and NASA lean test; 'ability to attend all scheduled visits'
+NCT06503874,Long COVID,H,0,1,0,0,0,0,0,0,"hybrid: in-person, remote and independent sessions"
+NCT05890534,Long COVID,H,0,1,0,1,0,1,0,0,online questionnaire; 30-s sit-to-stand; 'ability to participate in study visits'
+NCT05397626,ME/CFS,R,0,1,0,0,0,0,0,0,'All interventions are home-based with no in person visits'
+NCT06045481,Lyme,OFF,0,,0,,0,,0,,"tick-borne relapsing fever in soldiers, not Lyme"
+NCT04842448,Long COVID,P,0,0,1,1,0,0,0,0,HBOT; 6MWT
+NCT07110714,Long COVID,H,0,1,0,0,0,0,0,1,3-week stay; smartphone questionnaires and app at home; Barthel index >80 required
+NCT04828668,Long COVID,H,1,1,0,0,0,0,0,0,weekly telemedicine; study drug mailed
+NCT05592418,Long COVID,P,0,0,1,1,1,1,0,0,twice-weekly IV infusions; 6MWT; must return to site
+NCT05312619,Lyme,R,0,1,0,0,0,0,0,0,online cross-sectional survey
+NCT06468722,Long COVID,P,0,0,1,1,0,0,0,0,CPET during inpatient rehabilitation
+NCT05876377,Long COVID,REC,0,,0,,0,,0,,insurance claims and vaccine registries only
+NCT06404411,Long COVID,P,0,0,1,1,0,0,0,0,CPET-based aerobic exercise intervention
+NCT06082518,Long COVID,P,0,0,0,0,0,0,0,0,HBOT at an outpatient facility
+NCT06960928,Long COVID,P,0,0,0,0,1,1,0,0,"pills at home, but all visits at one New York address"
+NCT05139979,Long COVID,R,0,1,0,0,0,0,0,0,online webinar
+NCT06042751,Long COVID,H,0,1,0,0,0,0,0,0,six online consultations (exercise therapy or psychotherapy)
+NCT07726082,ME/CFS; Long COVID,H,0,1,0,0,0,0,0,0,"mandatory online webinar, then 4-day in-person group program"
+NCT05371522,Long COVID,P,0,0,0,0,0,0,0,0,PET scan
+NCT05476835,Long COVID,P,0,0,1,1,0,0,0,0,6MWT; walking program
+NCT05664711,ME/CFS,H,0,1,0,1,0,0,0,0,daily heart rate by phone app at home; NASA lean test; injection on site
+NCT06879535,Long COVID,R,1,1,0,0,0,0,0,0,mailed surveys
+NCT06316843,Long COVID,H,1,1,0,0,0,0,0,0,remote visits may replace Week 4 and 8 visits
+NCT06883513,Long COVID,P,0,0,0,0,0,0,0,0,osteopathic manipulation
+NCT05217875,Long COVID,P,0,0,1,1,0,0,0,1,CPET; excludes people whose conditions prevent CPET

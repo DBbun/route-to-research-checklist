@@ -1,0 +1,25 @@
+Pulled 2026-11-26 09:33 from https://clinicaltrials.gov/api/v2/studies
+Rows kept: 9950
+Queries: {
+ "COPD": [
+  "\"chronic obstructive pulmonary disease\" OR COPD",
+  null
+ ],
+ "Heart failure": [
+  "\"heart failure\"",
+  null
+ ],
+ "Cancer-related fatigue": [
+  "cancer OR neoplasm OR tumor",
+  "fatigue"
+ ],
+ "MS fatigue": [
+  "\"multiple sclerosis\"",
+  "fatigue"
+ ],
+ "Dialysis": [
+  "\"end stage renal disease\" OR \"end-stage kidney disease\" OR \"kidney failure\" OR hemodialysis",
+  "dialysis"
+ ]
+}
+Patterns: v2, unchanged from participant_burden_screen.py
